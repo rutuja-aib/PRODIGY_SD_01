@@ -1,0 +1,14 @@
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\bin\Debug\net8.0\Temperature_Conversion_Program.exe
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\bin\Debug\net8.0\Temperature_Conversion_Program.deps.json
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\bin\Debug\net8.0\Temperature_Conversion_Program.runtimeconfig.json
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\bin\Debug\net8.0\Temperature_Conversion_Program.dll
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\bin\Debug\net8.0\Temperature_Conversion_Program.pdb
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.AssemblyInfoInputs.cache
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.AssemblyInfo.cs
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.dll
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\refint\Temperature_Conversion_Program.dll
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.pdb
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\Temperature_Conversion_Program.genruntimeconfig.cache
+C:\Users\Rutuja\Desktop\.Net\Temperature_Conversion_Program\Temperature_Conversion_Program\obj\Debug\net8.0\ref\Temperature_Conversion_Program.dll
